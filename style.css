@@ -1,0 +1,24 @@
+body {
+    background-color: #e6e6fa;
+}
+
+.blog1 {
+    border: 5px solid black;
+    height: 500px;
+    width: 800px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.blogtext {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.blogtitle {
+    position: relative;
+    top: 5%;
+}
