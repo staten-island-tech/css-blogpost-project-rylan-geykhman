@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+
 body {
     background-color: #e6e6fa;
+    font-family: 'Muli', sans-serif;
 }
 
 .blog1 {
@@ -9,10 +12,18 @@ body {
     position: relative;
     margin-left: auto;
     margin-right: auto;
+    background-color: #
 }
 
 #div-1 {
     padding: 50px;
+    text-align: center;
+}
+
+#img {
+    position: absolute;
+    top: 48%;
+    left: 38%;
 }
 
 .blogtext {
