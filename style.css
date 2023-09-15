@@ -11,6 +11,10 @@ body {
     margin-right: auto;
 }
 
+#div-1 {
+    padding: 50px;
+}
+
 .blogtext {
     position: absolute;
     top: 30%;
