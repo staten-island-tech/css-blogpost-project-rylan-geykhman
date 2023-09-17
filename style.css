@@ -5,14 +5,16 @@ body {
     font-family: 'Muli', sans-serif;
 }
 
-.blog1 {
+.container {
     border: 5px solid black;
     height: 500px;
     width: 800px;
     position: relative;
     margin-left: auto;
     margin-right: auto;
-    background-color: #
+    background-color: #87ceeb;
+    margin-top: 5px;
+    text-align: center
 }
 
 #div-1 {
@@ -20,20 +22,8 @@ body {
     text-align: center;
 }
 
-#img {
-    position: absolute;
-    top: 48%;
-    left: 38%;
-}
-
-.blogtext {
-    position: absolute;
-    top: 30%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-
 .blogtitle {
     position: relative;
     top: 5%;
+    padding: 15px;
 }
